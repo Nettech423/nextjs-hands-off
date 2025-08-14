@@ -1,0 +1,23 @@
+[
+  {
+    "id": "tier1",
+    "name": "Tier 1 \u2014 Starter Prompt",
+    "description": "Great for beginners. Single-use commercial license.",
+    "price": "$50",
+    "priceEnv": "STRIPE_PRICE_ID_TIER1"
+  },
+  {
+    "id": "tier2",
+    "name": "Tier 2 \u2014 Pro Prompt",
+    "description": "Expanded capabilities and examples.",
+    "price": "$50",
+    "priceEnv": "STRIPE_PRICE_ID_TIER2"
+  },
+  {
+    "id": "tier3",
+    "name": "Tier 3 \u2014 Elite Prompt",
+    "description": "Full workflows and advanced variants.",
+    "price": "$50",
+    "priceEnv": "STRIPE_PRICE_ID_TIER3"
+  }
+]
