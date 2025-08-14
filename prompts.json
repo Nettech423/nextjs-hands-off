@@ -1,0 +1,11 @@
+{
+  "tier1": [
+    "Write a friendly product description for {product} in under 80 words."
+  ],
+  "tier2": [
+    "Create a step-by-step SOP for {task} with checklists and acceptance criteria."
+  ],
+  "tier3": [
+    "Design a multi-agent workflow for {goal} including roles, handoffs, and evaluation metrics."
+  ]
+}

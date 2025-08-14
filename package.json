@@ -1,0 +1,19 @@
+{
+  "name": "nextjs-app-router-stripe-hands-off",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3000",
+    "build": "next build",
+    "start": "next start -p 3000"
+  },
+  "engines": {
+    "node": ">=18.x"
+  },
+  "dependencies": {
+    "next": "14.2.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "stripe": "^14.21.0"
+  }
+}
